@@ -1,0 +1,15 @@
+BASECLASS=MonoBehaviour
+using UnityEngine;
+using System.Collections;
+using System.Collections.Generic;
+
+namespace $Namespace {
+
+	public class $ClassName : MonoBehaviour {
+		
+		$Functions
+		
+	}
+
+}
+
